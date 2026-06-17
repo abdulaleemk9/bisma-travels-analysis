@@ -1,3 +1,7 @@
+Note: The dataset used in this project is a practice dataset generated 
+     to reflect the type of analysis performed during my time at Bisma Travels. 
+     No real company data has been used or shared.
+
 # bisma-travels-analysis
 Travel agency sales analysis — Power BI dashboard, PostgreSQL queries, Excel data
 
